@@ -5,7 +5,7 @@ body,
 }
 
 .cover {
-    background: url('img/couchfriends.jpg') top left no-repeat;
+    background: url('//github.com/RichardCade/hipstrify/tree/master/img/couchfriends.jpg') top left no-repeat;
     background-size: cover;
     display: table;
     width: 100%;
