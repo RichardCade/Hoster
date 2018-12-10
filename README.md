@@ -1,1 +1,1 @@
-# hipstrify
+# hoster
