@@ -108,3 +108,36 @@ footer a {
         padding: 20px;
     }
 }
+
+@media only screen and ( min-width : 1920px ) {
+    
+    .navbar-brand {
+        margin-left: -350px;
+        font-size: 25px;
+    }
+
+    .navbar-nav {
+        margin-right: -300px;
+        font-size: 25px;
+    }
+    
+    .cover-text h1 {
+        margin: 0;
+        font-size: 80px;
+        letter-spacing: -3px;
+    }
+
+    .lead {
+        font-size: 23px;
+    }
+    
+    #coverButton {
+        font-size: 20px;
+    }
+    
+    .row {
+        margin-left: -200px;
+        margin-right: -200px;
+    
+}
+
